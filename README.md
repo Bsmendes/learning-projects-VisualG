@@ -1,2 +1,2 @@
-# learning-projects
-in this area I will post projects that I am learning as a Developer
+# learning-codes
+in this area I will post and save codes that I am learning as a Developer
