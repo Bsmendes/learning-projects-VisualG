@@ -1,4 +1,4 @@
-Exercicios 
+Exercicios em VIsualG
 
 
 Algoritmos e Lógica de Programação 2021 - O Curso COMPLETO 
