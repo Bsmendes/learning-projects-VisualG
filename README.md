@@ -1,2 +1,5 @@
-# learning-codes
-in this area I will post and save codes that I am learning as a Developer
+Exercicios 
+
+Algoritmos e Lógica de Programação 2021 - O Curso COMPLETO 
+Professor : Nelio Alves
+Plataforma : Udemy
